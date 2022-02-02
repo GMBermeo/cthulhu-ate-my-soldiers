@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 6927c8e53add7474ea6f32d093a8645c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Item (life CA) (limpo)
+    21300002: Item idle_0
+    21300004: Item idle_1
+    21300006: Item idle_2
+    21300008: Item idle_3
+    21300010: Item idle_4
+    21300012: Item idle_5
+    21300014: Item activate0
+    21300016: Item activate1
+    21300018: Item activate2
+    21300020: Item activate3
+    21300022: Item activate4
+    21300024: Item activate5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Item idle_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 37
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item idle_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 37
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item idle_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 37
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item idle_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 37
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item idle_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 37
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item idle_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 37
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item activate0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item activate1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item activate2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item activate3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item activate4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item activate5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

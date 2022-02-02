@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 88b492f941a3a9649b06d6007604b330
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Plataformas_0
+    21300002: Plataformas_1
+    21300004: Plataformas_2
+    21300006: Plataformas_3
+    21300008: Plataformas_4
+    21300010: Plataformas_5
+    21300012: Plataformas_6
+    21300014: Plataformas_7
+    21300016: Plataformas_8
+    21300018: Plataformas_9
+    21300020: Plataformas_10
+    21300022: Plataformas_11
+    21300024: Plataformas_12
+    21300026: Plataformas_13
+    21300028: Plataformas_14
+    21300030: Plataformas_15
+    21300032: Plataformas_16
+    21300034: Plataformas_17
+    21300036: Plataformas_18
+    21300038: Plataformas_19
+    21300040: Plataformas_20
+    21300042: Plataformas_21
+    21300044: Plataformas_22
+    21300046: Plataformas_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Plataformas_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 78
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 78
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 67
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 67
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 56
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 56
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 45
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 45
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 34
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 23
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 23
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 23
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 12
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 12
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Plataformas_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

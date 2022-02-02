@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 9a7ec3459d429c74e8a2d46063f9be97
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: intro
+    21300002: intro_7
+    21300004: intro_6
+    21300006: intro_5
+    21300008: intro_4
+    21300010: intro_3
+    21300012: intro_2
+    21300014: intro_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: intro_7
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 19
+        width: 126
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: intro_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 17
+        width: 129
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: intro_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 24
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: intro_4
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 14
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: intro_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 40
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: intro_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 47
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: intro_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 37
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
