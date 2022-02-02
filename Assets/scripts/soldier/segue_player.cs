@@ -27,7 +27,7 @@ public class segue_player : MonoBehaviour {
 
 		Vector2 targetDir = transform.position - player.position ;
 		//Debug.Log ("DIS"+targetDir);
-		if (dis_tiro.x > targetDir.x && targetDir.x > -dis_tiro.x ) {
+		if (dis_tiro.x > targetDir.x && targetDir.x > -dis_tiro.x && transform.position.y >= 0.1158416 && transform.position.y <= 0.4467483 && !FimDeJogo.gameover) {
 						//Debug.Log ("PERTO");
 			anim.SetBool("fire",true);//aciona animaçao de tiro
 			anim.SetFloat("speed",Mathf.Abs(0f));
@@ -40,7 +40,7 @@ public class segue_player : MonoBehaviour {
 	}
 	void seguePlayer(){
 		//Segue o player
-		if (!pertoPlayer) {//so vai andar se nao tiver perto
+		if (!pertoPlayer && !FimDeJogo.gameover) {//so vai andar se nao tiver perto
 			anim.SetFloat("speed",Mathf.Abs(3f));
 						if (transform.position.x < player.position.x) {
 								transform.position = transform.position + velocidade;

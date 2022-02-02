@@ -20,8 +20,7 @@ public class ovo_life : MonoBehaviour {
 	public Sprite ovo_4;
 	public Sprite ovo_5;
 
-	public static bool gameover = false;
-	public static bool tomandodano = false;
+//	public static bool gameover = false;
 
 	//Sprite do ovo tomando hit
 	public Sprite ovo_hit_0;
@@ -41,7 +40,6 @@ public class ovo_life : MonoBehaviour {
 		}
 
 	void Update () {
-				tomandodano = false;
 				if (Time.time >= hitcooldown)
 						gameObject.GetComponent<SpriteRenderer> ().sprite = ovo_atual;
 
@@ -62,21 +60,20 @@ public class ovo_life : MonoBehaviour {
 				}
 				if (vida_ovo <= 0) {
 						ovo_atual = ovo_5;
-						gameover = true;
+						FimDeJogo.gameover = true;
 						audio.clip = gameoversound;
 						audio.Play (); 
-						Destroy (boxcollidor);
+						gameObject.SetActive(false);
 				}
 		}
 
 	void OnTriggerEnter2D (Collider2D col) {
-		if (col.tag == "tiro" && !gameover ) {
-			tomandodano = true;
+		if (col.tag == "tiro" && !FimDeJogo.gameover ) {
 			hitcooldown = Time.time + 0.2f;
 			gameObject.GetComponent<SpriteRenderer> ().sprite = ovo_hitAtual;//sprite de hit
 			audio.clip = hitnoovo;
 			audio.Play();
-			vida_ovo -= 1;//se atingir o ovo deve descontar um ponto de vida
+			vida_ovo -= 5;//se atingir o ovo deve descontar um ponto de vida
 			Destroy (col.gameObject);
 					}
 

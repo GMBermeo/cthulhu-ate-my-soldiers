@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Atualizatext.js" />
+     <Compile Include="Assets\LogGUI.js" />
      <Compile Include="Assets\OvoAudio.js" />
      <Compile Include="Assets\scripts\alien\PlayerAudio.js" />
      <Compile Include="Assets\scripts\alien\spawn.js" />

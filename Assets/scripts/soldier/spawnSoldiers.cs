@@ -26,19 +26,19 @@ public class spawnSoldiers : MonoBehaviour {
 	void Update () {
 		numeroSorteado = Mathf.Abs(Random.Range(1,3000));
 		
-		if (numeroSorteado >= 1 && numeroSorteado < 10 + score.dificuldade) {
+		if (numeroSorteado >= 1 && numeroSorteado < 10 + score.dificuldade && !FimDeJogo.gameover) {
 			spawnNOW(lugar1);
 		}
-		if (numeroSorteado >= 100 && numeroSorteado < 110 + score.dificuldade) {
+		if (numeroSorteado >= 100 && numeroSorteado < 110 + score.dificuldade && !FimDeJogo.gameover) {
 			spawnNOW(lugar2);
 		}
-		if (numeroSorteado >= 1000 && numeroSorteado < 1001 + score.dificuldade/10) {
+		if (numeroSorteado >= 1000 && numeroSorteado < 1001 + score.dificuldade/10 && !FimDeJogo.gameover) {
 			spawnNOW(lugar3);
 		}
-		if (numeroSorteado >= 1200 && numeroSorteado < 1201 + score.dificuldade/10) {
+		if (numeroSorteado >= 1200 && numeroSorteado < 1201 + score.dificuldade/10 && !FimDeJogo.gameover) {
 			spawnNOW (lugar4);
 		}
-		if (numeroSorteado == 666) {
+		if (numeroSorteado == 666 && !FimDeJogo.gameover) {
 			spawnITEM(lugar5item);
 			audio.clip = avisodeitem;
 			audio.Play(); 

@@ -70,11 +70,16 @@
      <Compile Include="Assets\GameJoltAPI\Helper\Windows\GJHTrophiesWindow.cs" />
      <Compile Include="Assets\GameJoltAPI\Libraries\MD5.cs" />
      <Compile Include="Assets\GameJoltAPIManager.cs" />
+     <Compile Include="Assets\Gameover\Gameoverscreen.cs" />
+     <Compile Include="Assets\Naodestruir.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\Pularcena.cs" />
      <Compile Include="Assets\Pularintro.cs" />
+     <Compile Include="Assets\Scoreimport.cs" />
      <Compile Include="Assets\item.cs" />
      <Compile Include="Assets\score.cs" />
+     <Compile Include="Assets\scripts\FimDeJogo.cs" />
+     <Compile Include="Assets\scripts\Highscore.cs" />
      <Compile Include="Assets\scripts\alien\bala.cs" />
      <Compile Include="Assets\scripts\alien\player.cs" />
      <Compile Include="Assets\scripts\alien\player_movement.cs" />
