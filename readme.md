@@ -1,4 +1,4 @@
-# Cthulhu Até My Soldiers
+# Cthulhu Ate My Soldiers
 
 ![Start screen](https://i.gjcdn.net/data/games/0/5/31755/screenshots/31755_62527_orig.jpg)
 
